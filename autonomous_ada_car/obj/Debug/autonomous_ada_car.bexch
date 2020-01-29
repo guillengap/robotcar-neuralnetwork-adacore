@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__autonomous_ada_car.o
+[PROJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\autonomous_ada_car.gpr
+20191218205456
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f429_discovery\stm32f429_discovery_full.gpr
+20191213151850
+[BOUND OBJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\bmp_fonts.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\hershey_fonts.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\bitmapped_drawing.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\last_chance_handler.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\lcd_std_out.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\autonomous_ada_car.o
+[GENERATED SOURCE FILES]
+b__autonomous_ada_car.ads
+b__autonomous_ada_car.adb
+b__autonomous_ada_car.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\obj\Debug\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\examples\shared\common\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f429_discovery\obj\full_lib_Debug\
+-LC:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\
+-static
+-static-libgcc
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\libgnarl.a
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f429disco\adalib\libgnat.a

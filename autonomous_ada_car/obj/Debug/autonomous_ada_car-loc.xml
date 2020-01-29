@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\autonomous_ada_car.gpr</vfs_file>
+    <file_marker current="true" column=" 42" line=" 239" >
+      <vfs_project>C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\autonomous_ada_car.gpr</vfs_project>
+      <vfs_file>C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\autonomous_ada_car\src\autonomous_ada_car.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
